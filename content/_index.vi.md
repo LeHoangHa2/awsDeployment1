@@ -19,3 +19,4 @@ Tối ưu hóa hiệu năng của máy chủ EC2 trên nền tảng AWS bằng c
 4. [Đo hiệu suất thời gian khởi động của AMI](4-Benchmark-AMI-Boot-Time/)
 5. [Dữ liệu người dùng và cấu hình tự động](5-User-Data-and-Auto-Config/)
 6. [Triển khai hàng loạt và phân tích chi phí](6-Mass-Deployment-and-Cost-Analysis/)
+7. [Dọn dẹp tài nguyên](7-Clean-up)
