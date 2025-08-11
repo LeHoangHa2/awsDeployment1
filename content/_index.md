@@ -19,4 +19,5 @@ Optimizing the performance of EC2 instances on the AWS platform by using pre-con
 4. [Measure the boot time performance of the AMI](4-setting-up-docker-in-ec2/)
 5. [User Data and Auto Config](5-Deployment-and-Testing-in-ec2/)
 6. [Mass Deployment and Cost Analysis](6-Mass-Deployment-and-Cost-Analysis/)
+7. [Clean-up](7-Clean-up)
 
